@@ -53,7 +53,7 @@ As this project is developed, key considerations will include:
 
 ## Learning Journey
 
-This project is a fantastic opportunity to expand your skills. While knowledge of DRF is a strong starting point, diving into Vue.js and PostgreSQL will be a key part of this journey. Your existing understanding of SQLite3 provides a solid foundation for learning PostgreSQL, as many core database concepts are transferable. Embrace the learning process and enjoy building this application!
+This project is a fantastic opportunity to expand my skills. While knowledge of DRF is a strong starting point, diving into Vue.js and PostgreSQL will be a key part of this journey, my existing understanding of SQLite3 provides a solid foundation for learning PostgreSQL, as many core database concepts are transferable. As I embrace the learning process and enjoy building this application!
 
 ## How to Contribute
 
